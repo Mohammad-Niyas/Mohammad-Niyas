@@ -2,9 +2,9 @@
 <h3 align="center">Backend Engineer — Go · PostgreSQL · Redis · Distributed Systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mohammad-niyas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mohammadniyas662@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"></a>
+  <a href="https://leetcode.com/YOUR-LEETCODE](https://leetcode.com/u/mohammad-niyas/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"></a>
 </p>
 
 ---
